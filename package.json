@@ -1,0 +1,27 @@
+{
+  "name": "arsenii.com",
+  "version": "1.0.0",
+  "description": "Art Web Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhalverson/Arsenii.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhalverson/Arsenii.com/issues"
+  },
+  "homepage": "https://github.com/benhalverson/Arsenii.com#readme",
+  "dependencies": {
+    "nodemailer": "^4.0.1",
+    "restify": "^5.0.1",
+    "restify-errors": "^4.3.0",
+    "restify-plugins": "^1.6.0"
+  }
+}
