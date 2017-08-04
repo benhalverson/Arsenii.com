@@ -1,6 +1,6 @@
 
 TITLE:
-Arsenii.com
+Hydrogen - Responsive Free HTML5 template
 
 AUTHOR:
 Arsenii
